@@ -1,2 +1,2 @@
-# neueda-it
-team-projet
+# neueda-git
+doing the first commit
